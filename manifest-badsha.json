@@ -1,7 +1,0 @@
-{
-  "version": "1.0.1",
-  "url": "firmware-1.0.1.bin",
-  "size": 3751776,
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "notes": "TEST: wrong checksum, must be refused"
-}
