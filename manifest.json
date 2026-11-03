@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "url": "firmware-1.0.1.bin",
+  "size": 3751776,
+  "sha256": "d35b60629674ca96848ea449f839cced5187fc616ad03fcb53aa03535702a8d2",
+  "notes": "First update over the air: firmware updates from Settings > About."
+}
