@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "url": "firmware-1.0.2.bin",
-  "size": 3751824,
-  "sha256": "76b458e0bf078b3bbc5f7daefc56578269673d9dd50c60928e7254156933c4dd",
-  "notes": "Planned restarts (updates) no longer show as watchdog restarts."
+  "version": "1.0.4",
+  "url": "firmware-1.0.4.bin",
+  "size": 3757152,
+  "sha256": "e784bfd6737d95ed585596b968304a499b34f09106df74c13d16cd0e58da6850",
+  "notes": "Works around a CoAgMET data bug that made all stations look stale; map says why a station has an orange ring."
 }
