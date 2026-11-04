@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3-probe1",
-  "url": "firmware-1.0.3-probe1.bin",
+  "version": "1.0.3-probe2",
+  "url": "firmware-1.0.3-probe2.bin",
   "size": 3754736,
-  "sha256": "446f0f8ff84829f43b77a1c4ce7829bb6bf9ecdcf45a2a23035e947a5cd3cb6d",
+  "sha256": "69be37d6074e5f012be5968d952acf4c5584cf3285ba505df8d56283cfaecee5",
   "notes": ""
 }
