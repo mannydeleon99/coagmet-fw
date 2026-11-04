@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "url": "firmware-1.0.4.bin",
-  "size": 3757152,
-  "sha256": "e784bfd6737d95ed585596b968304a499b34f09106df74c13d16cd0e58da6850",
-  "notes": "Works around a CoAgMET data bug that made all stations look stale; map says why a station has an orange ring."
+  "version": "1.0.5",
+  "url": "firmware-1.0.5.bin",
+  "size": 3767216,
+  "sha256": "05df24115fc1a105430dfd3911ea7eb68dc57e834b32a19ddc0a0cbbfac77e08",
+  "notes": "Shows the last saved data (microSD) at boot and while offline"
 }
