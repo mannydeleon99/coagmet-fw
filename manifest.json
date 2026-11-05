@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "url": "firmware-1.0.6.bin",
-  "size": 3784240,
-  "sha256": "2463aaf353537b964b5b9c372c6eb5c95a81e8972f1553311c323bceb1d4402a",
-  "notes": "Map page SNOW layer: SNOTEL snowpack, % of median"
+  "version": "1.0.7",
+  "url": "firmware-1.0.7.bin",
+  "size": 3786160,
+  "sha256": "900f4732b05d6e542e03f4b5972f542f6f3f683f3891143f289364e89b2c0c2a",
+  "notes": "Settings > About shows the WiFi chip (C6) firmware version"
 }
