@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "url": "firmware-1.0.5.bin",
-  "size": 3767216,
-  "sha256": "05df24115fc1a105430dfd3911ea7eb68dc57e834b32a19ddc0a0cbbfac77e08",
-  "notes": "Shows the last saved data (microSD) at boot and while offline"
+  "version": "1.0.6",
+  "url": "firmware-1.0.6.bin",
+  "size": 3784240,
+  "sha256": "2463aaf353537b964b5b9c372c6eb5c95a81e8972f1553311c323bceb1d4402a",
+  "notes": "Map page SNOW layer: SNOTEL snowpack, % of median"
 }
